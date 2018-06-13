@@ -1342,7 +1342,7 @@ body,
 #first_cabinet .left-sidebar {
   margin-left: -15px;
   background: #474A88;
-  height: 100%;
+  min-height: 50vh;
   box-shadow: 0 0 9px rgba(0, 0, 0, 0.53);
   z-index: 99;
   position: relative;
@@ -2041,10 +2041,20 @@ section#more_information h2 {
   color: #000;
 }
 
-section#more_information p {
+section#more_information p:first-child {
   margin-top: 30px;
   color: #000;
   line-height: 1.7;
+}
+
+section#more_information p {
+  margin-top: 10px;
+  color: #000;
+  line-height: 1.7;
+}
+
+section#more_information p.q {
+  font-weight: 600;
 }
 
 /*==================section questions================*/
@@ -2718,7 +2728,8 @@ input.error {
   #first_cabinet .left-sidebar {
     margin-right: -15px;
     padding-bottom: 50px;
-    height: 100%;
+    min-height: 100%;
+
   }
 
   #first_cabinet .left-sidebar .settings li {

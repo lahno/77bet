@@ -14,7 +14,7 @@
                         Начни Зарабатывать уже сегодня<br> на спортивных событиях<br>с нашими прогнозами
                     </h1>
                     <h3>
-                        Lorem ipsum dolor sit amet, consectetur<br> adipisicing elit, sed do eiusmod tempor<br> incididunt ut labore et dolore
+                        Заказывай лучшие прогнозы на матчи<br> от профессиональных аналитиков<br> и зарабатывай уже сегодня
                     </h3>
                     <a href="#" class="btn__orange">Купить прогноз</a>
                 </div>
@@ -41,13 +41,13 @@
                 </div>
                 <div class="col-lg-4 text-center">
                     <div class="confidence-item">
-                        <p class="confidence-item__value" id="gain"><span>19000</span>р</p>
+                        <p class="confidence-item__value" id="gain"><span>19903</span>р</p>
                         <p class="confidence-item__text">Средний выигрыш</p>
                     </div>
                 </div>
                 <div class="col-lg-4 text-center">
                     <div class="confidence-item">
-                        <p class="confidence-item__value" id="number_bets"><span>500</span></p>
+                        <p class="confidence-item__value" id="number_bets"><span>1403</span></p>
                         <p class="confidence-item__text">Ставок ежедневно</p>
                     </div>
                 </div>
@@ -354,16 +354,55 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h2>Немного информации</h2>
+                    <h2>О КОМПАНИИ:</h2>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-6">
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                        Мы аналитическая компания, которая занимается прогнозами на спортивные события более 3 лет.
+                    </p>
+                    <p class="q">
+                       Что такое прогнозы? 
                     </p>
                     <p>
-                        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+                        Прогноз- это точное указание, какая команда победит. Также может указываться счет или другие показатели, на которые делается ставка.
+                    </p>
+                    <p class="q">
+                       От чего зависит точность прогнозов?
+                    </p>
+                    <p>
+                       Точность напрямую зависит от знаний и опыта аналитиков, работающих в 77BET.
+                    </p>
+                    <p class="q">
+                      Что нужно, чтобы сделать точный прогноз?
+                    </p>
+                    <p>
+                       В первую очередь нужно хорошо разбираться в конкретном виде спорта. Необходимо проводить большую работу по сбору и анализу статистики. Поэтому, практически все прогнозы уникальны, и делаются на ограниченное число событий, но такой подход значительно увеличивает шансы положительного исхода
+                    </p>
+                     <p class="q">
+                       Как делаются прогнозы? 
+                    </p>
+                    <p>
+                      Сначала наши аналитики изучают общую статистику встреч команд. Для работы они используют все доступные данные о встречах этих команд за последние несколько лет. Учитываются показатели матчей в последний сезон, так как, например, одна из команд может стандартно выигрывать или наоборот проигрывать домашние игры. 
+                    </p>
+                    <p>
+                      Смотрится также кадровое состояние команд, психологический настрой игроков. Ведь ключевые игроки могут быть травмированы, или отбывать дисквалификацию. 
+                    </p>
+                     <p class="q">
+                       Кто составляет прогнозы?
+                    </p>
+                    <p>
+                        Прогнозы составляют наши аналитики, которые всегда имеют непосредственное отношение к спорту, на который делаются прогнозы. Они разбираются в особенностях работы букмекерских контор и могут гарантировать вам прибыль. Наши прогнозы составляются лучшими аналитиками страны, поэтому 77BET показывает результат свыше 90%.
+                    </p>
+                     <p class="q">
+                       Почему стоит выбрать именно 77BET?
+                    </p>
+                    <p>
+                      Вы практически полностью устраняете риск ошибки при выборе события. У нас вы всегда сможете найти наилучшие платные данные. Использование подобной аналитики делает ставки надежным источником доходов.
+                    </p>
+                    <p>
+                      Приобретайте у нас платные прогнозы на спорт. Так вы сможете гарантированно выигрывать у букмекера, при этом не теряя свои деньги, а наоборот, приумножая собственный доход.
                     </p>
                 </div>
                 <div class="col-lg-6">
@@ -389,6 +428,11 @@
                     </div>
                     <div class="drop-down-question">
                         <i class="fas fa-caret-down"></i>
+                        <h3 class="drop-down-question__caption">Как купить прогноз?</h3>
+                        <p class="drop-down-question__answer">Чтобы купить прогноз, Вам необходимо перейти на страницу Купить прогноз, выбрать нужный вам продукт указать почту и номер телефона и нажать кнопку "купить"</p>
+                    </div>
+                    <div class="drop-down-question">
+                        <i class="fas fa-caret-down"></i>
                         <h3 class="drop-down-question__caption">Почему вы выбрали нас?</h3>
                         <p class="drop-down-question__answer">Мы потратили более 3-х лет на сбор нашей команды, чтобы давать вам- лучшие прогнозы! В нашу команду входят не только профессионалы по анализу спорта, но и спортсмены, которые отдали спорту всю свою жизнь и знают о нем всё!  В нашей компании, для каждого клиента, подбирается оптимальный план распределения финансов. Чтобы убрать риски потери средств.</p>
                     </div>
@@ -403,6 +447,11 @@
                         <i class="fas fa-caret-down"></i>
                         <h3 class="drop-down-question__caption">С какого возраста допускается регистрация на нашем сайте?</h3>
                         <p class="drop-down-question__answer">Регистрация на сайте и прохождение процедуры идентификации доступна только для лиц достигших 18-летнего возраста.</p>
+                    </div>
+                    <div class="drop-down-question">
+                        <i class="fas fa-caret-down"></i>
+                        <h3 class="drop-down-question__caption">Присылаете ли Вы замену, если прогноз не прошёл?</h3>
+                        <p class="drop-down-question__answer">Да, замена высылается бесплатно</p>
                     </div>
                     <div class="drop-down-question">
                         <i class="fas fa-caret-down"></i>
